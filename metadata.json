@@ -1,0 +1,6 @@
+{
+  "name": "ShivAmrit Healers — 1-to-1 Consultation Booking",
+  "description": "Book a personalized 1-to-1 healing consultation with Reiki Grand Master Parul Suthar. Sacred Vedic bio-energy and Pranic healing for chronic conditions, emotional wellness, and holistic recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
