@@ -32,13 +32,13 @@ export const Hero: React.FC<HeroProps> = ({ t, lang }) => {
               <span>{t.hero.badge}</span>
             </div>
 
-            {/* Main Headline (Semibold, Balanced, Refined) */}
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[2.75rem] font-serif-brand font-semibold text-[#FDFBF7] leading-[1.28] tracking-tight mb-8 text-balance">
-              <span className="font-semibold">{t.hero.headlinePart1}</span>{' '}
-              <span className="gold-gradient-text font-semibold">
+            {/* Main Headline (Anek Bold, Powerful & Clean) */}
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[2.85rem] font-bold text-[#FDFBF7] leading-[1.24] tracking-tight mb-8 text-balance">
+              <span className="font-bold">{t.hero.headlinePart1}</span>{' '}
+              <span className="gold-gradient-text font-bold">
                 {t.hero.headlineHighlight}
               </span>{' '}
-              <span className="font-semibold">{t.hero.headlinePart2}</span>
+              <span className="font-bold">{t.hero.headlinePart2}</span>
             </h1>
 
             {/* Dual High-Conversion CTA Actions */}
